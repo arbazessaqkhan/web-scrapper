@@ -1,4 +1,0 @@
-API_KEY: "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"
-BASE_URL: "https://eprocure.gov.in/eprocure/app"
-OPENROUTER_URL: "https://openrouter.ai/api/v1/chat/completions"
-MODEL: "meta-llama/llama-3.2-3b-instruct:free"
